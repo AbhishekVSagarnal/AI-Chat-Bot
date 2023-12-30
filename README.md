@@ -1,12 +1,4 @@
 
-# Screenshots
-
-![Landing Page](public/ui-screenshot/landing-page.png)
-![Login Page](public/ui-screenshot/login.png)
-![Dashboard Page](public/ui-screenshot/dashboard.png)
-![Pro Plan Upgrade](public/ui-screenshot/pro.png)
-
-
 # Key Features
 
 ### ChatGPT Service
