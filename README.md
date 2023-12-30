@@ -31,7 +31,7 @@ With integrated real-time chat support, our team of experts is readily available
 
 # Configuration
 
-To run D-propmt AI, you'll need to set up the following environment variables:
+To run AI Chat Bot, you'll need to set up the following environment variables:
 
 ### Clerk Configuration
 
@@ -85,7 +85,7 @@ Remember to keep your environment variables secure and avoid sharing them public
 
 # Installation
 
-Install D-promt-AII with yarn
+Install AI chat Bot with yarn
 
 ```bash
 clone this repo
