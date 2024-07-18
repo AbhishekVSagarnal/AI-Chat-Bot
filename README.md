@@ -1,4 +1,4 @@
-Description:
+#AI-Chat-Bot
 AI-Chat-Bot is an innovative platform that integrates advanced AI technologies to offer a suite of creative tools. From lifelike conversational AI to sophisticated video, image, and music generation capabilities, our platform empowers users to explore new realms of creativity and productivity.
 
 Key Features:
